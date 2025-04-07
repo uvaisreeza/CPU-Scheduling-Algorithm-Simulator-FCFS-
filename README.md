@@ -1,1 +1,1 @@
-# CPU-Scheduling-Algorithm-Simulator-FCFS-
+# CPU-Scheduling-Algorithm-Simulator-FCFS
